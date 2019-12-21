@@ -11,7 +11,7 @@ import com.badlogic.gdx.math.Circle;
 import com.badlogic.gdx.math.Intersector;
 
 import java.util.Random;
-
+//asdfgasfddfad
 public class SurvivorBird extends ApplicationAdapter {
 
 
